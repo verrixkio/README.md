@@ -1,5 +1,6 @@
 # [Thomas]'s Notes
 
-# This is an H1 header (largest)
+## Summary of repository
 
-###### This is an H6 header (smallest)
+This repository contains all the notes taken by [Thomas](https://github.com/verrixkio) for the LHL Web Dev BootCamp.
+
