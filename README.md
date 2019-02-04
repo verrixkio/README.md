@@ -1,3 +1,8 @@
+# [Thomas]'s Table of Contents
+* Week 1
+  * Day 1
+
+
 # [Thomas]'s Notes
 
 ## Summary of repository
