@@ -24,6 +24,7 @@ function findWaldo(arr, found) {
   })
 }
 
+
 function actionWhenFound(indexPos) {cd
   console.log("Found him at indice " + indexPos);
 }
